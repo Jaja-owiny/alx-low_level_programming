@@ -7,3 +7,4 @@
 5-printf.c - Script prints the text with proper grammar, but the outcome is a piece of art, using the printf() function.
 6-size.c - Program prints the sixe of data types.
 100-intel - Script generates the assembly code(intel syntax) of a C code and saves it in an output file.
+101-quote.c - Program prints the words'and that piece of art is useful" - Dora Korpar, 2015-10-19'.
