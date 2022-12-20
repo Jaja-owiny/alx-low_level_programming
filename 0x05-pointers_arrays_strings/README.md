@@ -5,3 +5,4 @@
 4. 4-print_rev.c - Program prints the characters in reverse followedd by a new line.
 5.  5-rev_string.c - Program prints the string in reverse. 
 6. 6-puts.c - fucction that prints every other character of a string, starting with the first character.
+7. 7-puts_half.c - Function that prints half a string, and it should be the second half to be printed.
