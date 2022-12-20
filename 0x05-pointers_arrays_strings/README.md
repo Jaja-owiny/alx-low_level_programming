@@ -8,3 +8,4 @@
 7. 7-puts_half.c - Function that prints half a string, and it should be the second half to be printed.
 8. 8-print_array.c - Function prints 'n' elements of an array of integers.
 9. 9-strcpy.c - Function that copies the string pointed by scr, including the terminating character '\0', to the buffer pointed to by dest.
+10. 100-atoi.c - Funcion converts a string to an integer.
